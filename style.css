@@ -135,6 +135,9 @@ post_img {
     top: 100px;
     right: 0px;
 }
+post:hover {
+    background: lightgreen;
+}
 .address:hover:before {
     content: url(https://cdn-icons-png.flaticon.com/128/1177/1177455.png);
     transition: 0.5s;
